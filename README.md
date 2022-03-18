@@ -2,7 +2,7 @@
 
 #### By **Jarret Jeter**
 
-#### _An html/css page_
+#### _An html/css page portfolio_
 
 ## Technologies Used
 
@@ -12,12 +12,11 @@
 
 ## Description
 
-_The purpose of this portfolio is to present my work/skills and resume_
+_The purpose of this portfolio is to present my work/skills and resume._
 
 ## Setup/Installation Requirements
-
- _No setup or installation required._  
- _Simply:_   
+ 
+ _To view my portfolia page, simply:_   
 1. Navigate to the bottom of this repo's [github page](https://github.com/jarretjeter/Portfolio).  
 2. Find the "Environments" section and click on github-pages underneath.
 3. Click "View deployment".  
