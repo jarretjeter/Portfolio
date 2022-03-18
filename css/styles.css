@@ -2,9 +2,18 @@ body {
   background-color: antiquewhite;
 }
 
+h1, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info p {
+  font-size: 20px;
+}
+
 .title {
   background-color:;
   border: 2px solid black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 20px 0 80px;
   padding: 10px 0;
   text-align: center;
