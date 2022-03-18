@@ -28,6 +28,8 @@ _Currently no known bugs at this time_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have any questions, please email me at jarretjeter@yahoo.com_
+
+[MIT](https://github.com/jarretjeter/Portfolio/blob/a-white/LICENSE.txt)  
 
 Copyright (c) _March 18 2022_ _Jarret Jeter_
