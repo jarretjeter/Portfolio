@@ -16,8 +16,16 @@ img {
   float: left;
 }
 
+.education ul li {
+  list-style-position: inside;
+}
+
 .info p {
   font-size: 20px;
+}
+
+.info ul li {
+  list-style: none;
 }
 
 .intro {
@@ -28,6 +36,18 @@ img {
 
 .card.intro {
   background-color: burlywood;
+  margin: 0 0 20px 0;
+}
+
+.col {
+  background-color: azure;
+  margin: 0px;
+  padding: 2px;
+  text-align: center;
+}
+
+.container.skills {
+  margin-bottom: 25px;
 }
 
 .intro p {
@@ -35,10 +55,18 @@ img {
   padding: 40px 0 0 0;
 }
 
+.projects {
+  margin: 20px 0 20px 0;
+}
+
 .title {
   border: 2px solid black;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 20px 0 80px;
+  margin: 20px 0 30px;
   padding: 10px 0;
   text-align: center;
+}
+
+.work ul li {
+  list-style-position: inside;
 }
